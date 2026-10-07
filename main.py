@@ -12,5 +12,7 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
+    print_hi('The only changes to main should come from develop')
+    print_hi("The 'develop' branch should be changed with dedicated PR and issue")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
